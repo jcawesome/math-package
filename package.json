@@ -1,0 +1,29 @@
+{
+  "name": "jcawesome-math",
+  "description": "Package that contains basic artithemetic operations",
+  "version": "1.0.1",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcawesome/math-package.git"
+  },
+  "keywords": [
+    "math",
+    "arithmetic",
+    "sum",
+    "subtract",
+    "multiply"
+  ],
+  "author": "Jan Carlo Pagtalunan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcawesome/math-package/issues"
+  },
+  "homepage": "https://github.com/jcawesome/math-package#readme"
+}
